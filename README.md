@@ -40,7 +40,7 @@ how these different implementations differ.
 And after all it is a quite fun project.
 
 ## License
-All code is licensed under the terms and conditions of the (https://opensource.org/licenses/MIT)[MIT] license.
+All code is licensed under the terms and conditions of the [MIT](https://opensource.org/licenses/MIT) license.
 
 ## Authors
 [GentlemanBytes](https://gentlemanbytes.com) - Steffen Beisenherz ([sironheart](https://github.com/sironheart)) and Alexander Kluth ([deralex](https://github.com/deralex))
