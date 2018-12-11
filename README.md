@@ -43,4 +43,4 @@ And after all it is a quite fun project.
 All code is licensed under the terms and conditions of the (https://opensource.org/licenses/MIT)[MIT] license.
 
 ## Authors
-(https://gentlemanbytes.com)[GentlemanBytes] - Steffen Beisenherz ((https://github.com/sironheart)[sironheart]) and Alexander Kluth ((https://github.com/deralex)[deralex])
+[GentlemanBytes](https://gentlemanbytes.com) - Steffen Beisenherz ([sironheart](https://github.com/sironheart)) and Alexander Kluth ([deralex](https://github.com/deralex))
