@@ -1,8 +1,7 @@
-# Language Performance
+# Languages, web frameworks, comparison - fun!
+Have you ever asked yourself which the fastest language in web is? Well, we did! That's why we want to test this.
 
-Have you ever asked yourself which the fastest language in Web is? Well, we did! That's why we want to test this.
-
-## The rules:
+## The rules
 - Use a language of your choice. You only need to have it at the latest language version.
 - Use a web framework of your choice. For example:
   - Symfony for PHP
@@ -27,7 +26,7 @@ Have you ever asked yourself which the fastest language in Web is? Well, we did!
 ## Folder structure
 The folders within this project each contain a hello world application in a specific language and web framework. The folder names structure is: `$LANGUAGE-$FRAMEWORK`
 
-## Wanting to help
+## Wanting to help?
 PRs are truely welcome to get a much wider variety of which language/framework performance best, overall! Just follow the rules and folder structure and we'll propably accept your Merge Request!
 
 ## Disclaimer
