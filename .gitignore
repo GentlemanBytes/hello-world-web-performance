@@ -4,3 +4,4 @@ rust-gotham/target
 **/target
 **/*.iml
 **/_build
+**/.merlin
