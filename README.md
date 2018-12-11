@@ -27,7 +27,7 @@ Have you ever asked yourself which the fastest language in web is? Well, we did!
 The folders within this project each contain a hello world application in a specific language and web framework. The folder names structure is: `$LANGUAGE-$FRAMEWORK`
 
 ## Wanting to help?
-PRs are truely welcome to get a much wider variety of which language/framework performance best, overall! Just follow the rules and folder structure and we'll propably accept your Merge Request!
+PRs are truely welcome to get a much wider variety of which language/framework performance best, overall! Just follow the rules and folder structure and we'll propably accept your Pull Request!
 
 ## Disclaimer
 Yes, we are aware of the fact that these comparisons are not exact. There are more parameters which are important for the performance
