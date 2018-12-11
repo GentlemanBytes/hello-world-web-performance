@@ -2,3 +2,4 @@ rust-gotham/target
 **/*.rs.bk
 .idea
 **/target
+**/*.iml
