@@ -29,3 +29,18 @@ The folders within this project each contain a hello world application in a spec
 
 ## Wanting to help
 PRs are truely welcome to get a much wider variety of which language/framework performance best, overall! Just follow the rules and folder structure and we'll propably accept your Merge Request!
+
+## Disclaimer
+Yes, we are aware of the fact that these comparisons are not exact. There are more parameters which are important for the performance
+of a web application (OS, virtualization, bare metal, application servers, alternative CGI implementations (e.g. php-fpm)...).
+
+This project is useful to compare a simple task as writing a "Hello world!"-website with templating with different languages and frameworks and
+how these different implementations differ.
+
+And after all it is a quite fun project.
+
+## License
+All code is licensed under the terms and conditions of the (https://opensource.org/licenses/MIT)[MIT] license.
+
+## Authors
+(https://gentlemanbytes.com)[GentlemanBytes] - Steffen Beisenherz ((https://github.com/sironheart)[sironheart]) and Alexander Kluth ((https://github.com/deralex)[deralex])
