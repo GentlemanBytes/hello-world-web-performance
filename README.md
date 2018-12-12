@@ -42,4 +42,14 @@ And after all it is a quite fun project.
 All code is licensed under the terms and conditions of the [MIT](https://opensource.org/licenses/MIT) license.
 
 ## Authors
-[GentlemanBytes](https://gentlemanbytes.com) - Steffen Beisenherz ([sironheart](https://github.com/sironheart)) and Alexander Kluth ([deralex](https://github.com/deralex))
+[GentlemanBytes](https://gentlemanbytes.com) - Steffen Beisenherz ([sironheart](https://github.com/sironheart))
+- PHP -> [Symfony3.4](https://symfony.com/)
+- PHP -> [Symfony4](https://symfony.com/)
+- Python -> [Django](https://www.djangoproject.com/)
+- Swift -> [Kitura](https://www.kitura.io/)
+
+[GentlemanBytes](https://gentlemanbytes.com) - Alexander Kluth ([deralex](https://github.com/deralex))
+- Java -> [Spark](http://sparkjava.com/)
+- oCaml -> [Opium](https://github.com/rgrinberg/opium)
+- Perl5 -> [Mojolicous](https://mojolicious.org/)
+- Rust -> [Gotham](https://gotham.rs/)
