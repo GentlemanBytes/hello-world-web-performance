@@ -1,0 +1,3 @@
+.build/							usr/src/swift-kitura
+terraform/scripts/install.sh	usr/src/swift-kitura
+terraform/scripts/start.sh		usr/src/swift-kitura
